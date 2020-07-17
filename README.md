@@ -1,4 +1,4 @@
-## Group Project of Data Visualisation
+## Project of Data Visualisation
 #### Python packages requirements
 - plotly
 - dash
